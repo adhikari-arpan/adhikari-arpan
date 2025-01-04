@@ -32,8 +32,4 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/adhikari-arpan/adhikari-arpan/output/snake.svg" alt="Snake animation" />
-
-###
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhikari-arpan&" alt="adhikari-arpan" /></p>
