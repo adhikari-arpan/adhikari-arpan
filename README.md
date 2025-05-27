@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arpan Adhikari</h1>
+i<h1 align="center">Hi 👋, I'm Arpan Adhikari</h1>
 <h3 align="center">Full Stack developer || Computer Engineering student || AI Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adhikari-arpan&label=Profile%20views&color=0e75b6&style=flat" alt="adhikari-arpan" /> </p>
@@ -8,7 +8,6 @@
 - 👨‍💻 All of my projects are available at [https://www.arpanadhikari7.com.np/](https://www.arpanadhikari7.com.np/)
 
 - 📫 How to reach me **adhikariarpan2063@gmail.com**
-
 
 ***
 
