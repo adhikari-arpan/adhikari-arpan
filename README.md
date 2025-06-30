@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adhikari-arpan&label=Profile%20views&color=0e75b6&style=flat" alt="adhikari-arpan" /> </p>
 
-<img src="https://raw.githubusercontent.com/adhikari-arpan/adhikari-arpan/output/snake.svg" alt="Snake animation" />
-
 ***
 
 - 👨‍💻 All of my projects are available at [https://www.arpanadhikari7.com.np/](https://www.arpanadhikari7.com.np/)
