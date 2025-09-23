@@ -88,8 +88,8 @@
 ***
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhikari-arpan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhikari-arpan&show_icons=true&locale=en&layout=compact 5&theme=highcontrast&hide_border=false&order=2" alt="adhikari-arpan" /></p>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhikari-arpan&theme=highcontrast" alt="adhikari-arpan" /></p>
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adhikari-arpan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adhikari-arpan&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adhikari-arpan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
