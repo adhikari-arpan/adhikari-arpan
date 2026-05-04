@@ -7,12 +7,12 @@
 </p>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=adhikari-arpan">
-    <img height="25rem"src="https://komarev.com/ghpvc/?username=adhikari-arpan&label=Profile%20views&color=3b82f6&style=flat-square" alt="adhikari-arpan's profile views" />
+    <img height="20rem"src="https://komarev.com/ghpvc/?username=adhikari-arpan&label=Profile%20views&color=3b82f6&style=flat-square" alt="adhikari-arpan's profile views" />
   </a>
 </p>
 
 <p align="center">
-  <img height="40rem" src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img height="90rem" src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 ## 🛠️ Languages & Tools
@@ -96,26 +96,21 @@
 </p>
 
 ## 🔗 Connect with Me
-<table width="100%" border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td valign="middle" align="center" width="65%">
-      <a href="https://www.linkedin.com/in/adhikari-arpan63/">
-        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="35" />
-      </a>&nbsp;&nbsp;&nbsp;
-      <a href="https://x.com/adhikari__arpan">
-        <img src="https://cdn.simpleicons.org/x/e6edf3" alt="X" width="25" style="margin-bottom: 4px"/>
-      </a>&nbsp;&nbsp;&nbsp;
-      <a href="mailto:adhikariarpan2063@gmail.com">
-        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="35" />
-      </a>&nbsp;&nbsp;&nbsp;
-      <a href="https://www.arpanadhikari7.com.np">
-        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="35" />
-      </a>
-    </td>
-    <td valign="middle" align="center" width="35%">
-      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Rocket" width="180" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/adhikari-arpan63/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="35" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/adhikari__arpan">
+    <img src="https://cdn.simpleicons.org/x/e6edf3" alt="X" width="25" style="margin-bottom: 4px"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:adhikariarpan2063@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="35" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.arpanadhikari7.com.np">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="35" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Rocket" width="180" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3b82f6&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" />
