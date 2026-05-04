@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:3b82f6&text=ARPAN%20ADHIKARI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Let's%20build%20something%20awesome%20together!&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:000000,100:3b82f6&text=ARPAN%20ADHIKARI&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Let's%20build%20something%20awesome%20together!&descSize=17&descColor=FFFFFF&descAlignY=68" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -73,15 +73,22 @@
 </p>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/adhikari-arpan">
-    <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adhikari-arpan&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="adhikari-arpan's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=adhikari-arpan&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="adhikari-arpan's GitHub Streak" width="95%" />
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/adhikari-arpan">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adhikari-arpan&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="adhikari-arpan's GitHub Stats" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://streak-stats.demolab.com/?user=adhikari-arpan&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="adhikari-arpan's GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
+
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=adhikari-arpan&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=5&cache_seconds=86400" alt="Arpan Adhikari's GitHub Trophies" width="100%" />
+  <img src="https://trophy.ryglcloud.net/?username=adhikari-arpan&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&cache_seconds=86400" alt="Arpan Adhikari's GitHub Trophies" width="70%" />
 </p>
 
 <p align="center">
@@ -89,25 +96,26 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/adhikari-arpan63/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/adhikari__arpan">
-    <img src="https://cdn.simpleicons.org/x/e6edf3" alt="X" width="26" style="margin-bottom: 5px;"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:adhikariarpan2063@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="www.arpanadhikari7.com.np">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td valign="middle" width="65%">
+      <a href="https://www.linkedin.com/in/adhikari-arpan63/">
+        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="35" />
+      </a>&nbsp;&nbsp;&nbsp;
+      <a href="https://x.com/adhikari__arpan">
+        <img src="https://cdn.simpleicons.org/x/e6edf3" alt="X" width="25" style="margin-bottom: 4px"/>
+      </a>&nbsp;&nbsp;&nbsp;
+      <a href="mailto:adhikariarpan2063@gmail.com">
+        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="35" />
+      </a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.arpanadhikari7.com.np">
+        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="35" />
+      </a>
+    </td>
+    <td valign="middle" align="right" width="35%">
+      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Rocket" width="180" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Rocket" width="200" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3b82f6&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3b82f6&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" />
