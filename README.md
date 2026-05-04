@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img height="90rem" src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 ## 🛠️ Languages & Tools
