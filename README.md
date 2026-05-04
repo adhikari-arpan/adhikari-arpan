@@ -88,7 +88,7 @@
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=adhikari-arpan&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&cache_seconds=86400" alt="Arpan Adhikari's GitHub Trophies" width="70%" />
+  <img src="https://trophy.ryglcloud.net/?username=adhikari-arpan&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&cache_seconds=86400" alt="Arpan Adhikari's GitHub Trophies" width="70%" />
 </p>
 
 <p align="center">
