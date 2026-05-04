@@ -1,103 +1,113 @@
-<h1 align="center">Hi 👋, I'm Arpan Adhikari</h1>
-<h3 align="center">Full Stack developer || Computer Engineering student || AI Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:3b82f6&text=ARPAN%20ADHIKARI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Let's%20build%20something%20awesome%20together!&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adhikari-arpan&label=Profile%20views&color=0e75b6&style=flat" alt="adhikari-arpan" /> </p>
-
-***
-
-- 👨‍💻 All of my projects are available at [https://www.arpanadhikari7.com.np/](https://www.arpanadhikari7.com.np/)
-
-- 📫 How to reach me **adhikariarpan2063@gmail.com**
-
-
-
-***
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adhikari__arpan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adhikari__arpan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adhikari-arpan63/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adhikari-arpan63/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/arpan.adhikari.063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arpan.adhikari.063" height="30" width="40" /></a>
-<a href="https://www.instagram.com/adhikari__arpan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/?hl=en" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3b82f6&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Open+Source+Enthusiast;Always+Building+Cool+Things;Coffee+Addict+%E2%98%95" alt="Typing SVG" />
+  </a>
 </p>
-
-***
-
-<h3 align="left">Languages and Tools:</h3>
-<!-- 💻 Programming Languages -->
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=adhikari-arpan">
+    <img height="19rem"src="https://komarev.com/ghpvc/?username=adhikari-arpan&label=Profile%20views&color=3b82f6&style=flat-square" alt="adhikari-arpan's profile views" />
   </a>
 </p>
 
-<!-- 🌐 Web Development & Frameworks -->
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/adhikari-arpan">
+    <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adhikari-arpan&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
-<!-- 🛠️ Tools, Platforms, and IDEs -->
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/adhikari-arpan">
+    <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adhikari-arpan&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="adhikari-arpan's GitHub Stats" />
   </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://streak-stats.demolab.com/?user=adhikari-arpan&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="adhikari-arpan's GitHub Streak" width="95%" />
+</p>
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=adhikari-arpan&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=5&cache_seconds=86400" alt="Arpan Adhikari's GitHub Trophies" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhikari-arpan&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/adhikari-arpan63/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/adhikari__arpan">
+    <img src="https://cdn.simpleicons.org/x/e6edf3" alt="X" width="26" style="margin-bottom: 5px;"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:adhikariarpan2063@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="www.arpanadhikari7.com.np">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
 
-***
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Rocket" width="200" />
+</p>
 
-# GitHub Stats:
-<div align="center">
-
-  ![](https://github-readme-stats.vercel.app/api?username=adhikari-arpan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=adhikari-arpan&theme=highcontrast&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adhikari-arpan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3b82f6&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" />
+</p>
