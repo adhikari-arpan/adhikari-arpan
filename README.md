@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=adhikari-arpan">
-    <img height="20rem"src="https://komarev.com/ghpvc/?username=adhikari-arpan&label=Profile%20views&color=3b82f6&style=flat-square" alt="adhikari-arpan's profile views" />
+    <img height="30rem"src="https://komarev.com/ghpvc/?username=adhikari-arpan&label=Profile%20views&color=3b82f6&style=flat-square" alt="adhikari-arpan's profile views" />
   </a>
 </p>
 
@@ -86,7 +86,7 @@
   </tr>
 </table>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="center">GitHub Trophies</h3>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=adhikari-arpan&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&cache_seconds=86400" alt="Arpan Adhikari's GitHub Trophies" width="70%" />
 </p>
@@ -109,7 +109,7 @@
   <a href="https://www.arpanadhikari7.com.np">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="35" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Rocket" width="180" />
 </p>
 
