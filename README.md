@@ -26,16 +26,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
 </p>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="6">
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="20">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td valign="top" align="center">
       <h3>Frontend</h3>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
     </td>
-    <td width="50%" valign="top" align="center">
+    <td valign="top" align="center">
       <h3>Backend</h3>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
       <picture>
@@ -46,20 +47,23 @@
     </td>
   </tr>
 </table>
+</div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="6">
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="20">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td valign="top" align="center">
       <h3>Database</h3>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
     </td>
-    <td width="50%" valign="top" align="center">
+    <td valign="top" align="center">
       <h3>DevOps & Cloud</h3>
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
     </td>
   </tr>
 </table>
+</div>
 
 <h3 align="center">Tools</h3>
 <p align="center">
