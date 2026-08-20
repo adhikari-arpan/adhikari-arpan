@@ -2,85 +2,72 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3b82f6&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Open+Source+Enthusiast;Always+Building+Cool+Things;Passionate+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3b82f6&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Open+Source+Enthusiast;Always+Building+Cool+Things;Passionate+Learner;Snake+vs.+My+Contribution+Graph+%F0%9F%90%8D;Powered+by+Coffee+%26+Curiosity+%E2%98%95" alt="Typing SVG" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=adhikari-arpan">
-    <img height="25rem" src="https://komarev.com/ghpvc/?username=adhikari-arpan&label=Profile%20views&color=3b82f6&style=flat-square" alt="adhikari-arpan's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=adhikari-arpan&label=Profile%20Views&color=3b82f6&style=for-the-badge&labelColor=000000" alt="adhikari-arpan's profile views" />
+  </a>
+  <a href="https://github.com/adhikari-arpan?tab=followers">
+    <img src="https://img.shields.io/github/followers/adhikari-arpan?label=Followers&style=for-the-badge&color=3b82f6&labelColor=000000" alt="GitHub followers" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+## 👋 A Bit About Me
 
-## 🛠️ Languages & Tools
+- 🔭 Currently crafting full-stack magic with the **MERN** stack
+- 🌱 Leveling up in system design & the cloud (AWS)
+- 🎮 Side quest: watching a snake devour my contribution graph a few scrolls down ⬇️
+- ⚡ Fun fact: I'd rather refactor code than write documentation
+- 📫 Reach me: [adhikariarpan2063@gmail.com](mailto:adhikariarpan2063@gmail.com)
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
-</p>
+## 🎮 My Contribution Graph Fights Back
 
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="20">
+<p align="center">Yes, it's animated. Yes, it's alive. Watch it get devoured below.</p>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td valign="top" align="center">
-      <h3>Frontend</h3>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-    </td>
-    <td valign="top" align="center">
-      <h3>Backend</h3>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
+    <td width="50%" valign="top" align="center">
+      <h4>🐍 Snake Eats My Contributions</h4>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
-        <img alt="Express.js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adhikari-arpan/adhikari-arpan/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adhikari-arpan/adhikari-arpan/output/github-contribution-grid-snake.svg" />
+        <img alt="A snake eating adhikari-arpan's GitHub contribution graph" src="https://raw.githubusercontent.com/adhikari-arpan/adhikari-arpan/output/github-contribution-grid-snake.svg" width="100%" />
       </picture>
     </td>
-  </tr>
-</table>
-</div>
-
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="20">
-  <tr>
-    <td valign="top" align="center">
-      <h3>Database</h3>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-    </td>
-    <td valign="top" align="center">
-      <h3>DevOps & Cloud</h3>
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
+    <td width="50%" valign="top" align="center">
+      <h4>🚀 Space Shooter</h4>
+      <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" width="100%" />
     </td>
   </tr>
 </table>
-</div>
 
-<h3 align="center">Tools</h3>
+## 🛠️ Tech Arsenal
+
+<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,php&theme=dark" alt="Languages" />
 </p>
 
+<p align="center"><b>Frontend</b></p>
 <p align="center">
-  <a href="https://github.com/adhikari-arpan">
-    <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adhikari-arpan&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark" alt="Frontend" />
+</p>
+
+<p align="center"><b>Backend & Database</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" alt="Backend & Database" />
+</p>
+
+<p align="center"><b>DevOps & Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,git,vscode,figma,postman&theme=dark" alt="DevOps & Tools" />
 </p>
 
 ## 📊 GitHub Stats
+
 <table width="100%" border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td width="50%" valign="top" align="center">
@@ -94,16 +81,28 @@
   </tr>
 </table>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=adhikari-arpan&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=5&cache_seconds=86400" alt="Arpan Adhikari's GitHub Trophies" width="70%" />
+  <a href="https://github.com/adhikari-arpan">
+    <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adhikari-arpan&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+<details>
+<summary align="center"><b>🏆 Click to reveal Trophies & Activity Graph</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=adhikari-arpan&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=5&cache_seconds=86400" alt="Arpan Adhikari's GitHub Trophies" width="90%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhikari-arpan&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
+</details>
+
 ## 🔗 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/adhikari-arpan63/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="35" />
