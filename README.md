@@ -73,7 +73,7 @@
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="https://streak-stats.demolab.com/?user=adhikari-arpan&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="adhikari-arpan's GitHub Streak" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=adhikari-arpan&theme=highcontrast&hide_border=true&cache_seconds=43200" alt="adhikari-arpan's GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
