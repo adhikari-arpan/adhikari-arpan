@@ -20,7 +20,6 @@
 - 🔭 Currently crafting full-stack magic with the **MERN** stack
 - 🌱 Leveling up in system design and AI
 - 🎮 Side quest: watching a snake devour my contribution graph a few scrolls down ⬇️
-- ⚡ Fun fact: I'd rather refactor code than write documentation
 - 📫 Reach me: [adhikariarpan2063@gmail.com](mailto:adhikariarpan2063@gmail.com)
 
 ## 🎮 My Contribution Graph Fights Back
